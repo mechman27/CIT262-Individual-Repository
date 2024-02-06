@@ -1,5 +1,5 @@
-const sayName = () => {
-    return "Dallas";
+const sayHello = () => {
+    return "Hello";
 }
 
-export default sayName;
+export default sayHello;
